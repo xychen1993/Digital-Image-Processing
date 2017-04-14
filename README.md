@@ -1,4 +1,4 @@
-#Java digial image processing software.
+#Java digial image processing software
 
 Features:
 image smoothing
